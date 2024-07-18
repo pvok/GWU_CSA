@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: sagar
+Build-Jdk: 17.0.6
+Main-Class: com.mycompany.simulatorxcsa.SimulatorXCSA
+Created-By: Maven Integration for Eclipse
+
